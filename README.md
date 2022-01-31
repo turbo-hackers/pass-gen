@@ -21,7 +21,7 @@ PASS-GEN tool is an python based script which create/generate randrom passwords 
 ## FEATURES :
 * [+] Stable tool !
 * [+] Updated maintainence !
-* [+] Best in termux and Kali Linux !
+* [+] Best in termux and Kali Linux!
 * [+] Easy for Beginners !
 
 ## INSTALLATION 
