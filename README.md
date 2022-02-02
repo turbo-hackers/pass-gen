@@ -1,6 +1,6 @@
 ## ABOUT TOOL :
 
-PASS-GEN tool is an python based script which create/generate randrom passwords in fraction of seconds. This tool works on any devices with python required. (both rooted and non-rooted Android devices
+PASS-GEN tool is an python based script which create/generate randrom passwords in fraction of seconds. This tool works on any devices with python required.
 
 
 
