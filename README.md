@@ -28,32 +28,24 @@ PASS-GEN tool is an python based script which create/generate randrom passwords 
 
 ## [Kali-Linux]:
 
-* `sudo apt-get update -y`
-* `sudo apt-get upgrade -y`
-* `sudo apt install python -y`
-* `sudo apt install git -y`
-* `sudo pip install lolcat`
-* `sudo pip install random`
 * `git clone https://github.com/turbo-hackers/pass-gen.git`
 * `ls`
 * `cd pass-gen`
+* `ls`
+* `python3 setup-linux.py`
 * `ls`
 * `python3 pass-gen.py`
 
 ## [Termux]:
 
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `pkg install python -y`
-* `pkg install git -y`
-* `pip install lolcat`
-* `pip install requests`
-* `pip install random`
 * `git clone https://github.com/turbo-hackers/pass-gen.git`
 * `ls`
 * `cd pass-gen`
 * `ls`
+* `python3 setup-termux.py`
+* `ls`
 * `python3 pass-gen.py`
+
 ```
 [+]--Enter the lenghth of password you want
 
