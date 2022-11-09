@@ -1,64 +1,37 @@
-## ABOUT TOOL :
+# PASS-GEN V1.0
 
-PASS-GEN tool is an python based script which create/generate randrom passwords in fraction of seconds. This tool works on any devices with python required.
+PASS-GEN tool is an python based script which create/generate randrom passwords in fraction of seconds.
+This tool works on any devices with python installed.
 
 
+## [Screenshot] :
+![alt text](https://raw.githubusercontent.com/turbo-hackers/pass-gen/master/screenshot_pass-gen.png)
+<h2>Installation and Usage (python 3)</h2>
 
-## AVAILABLE ON :
-
-* Termux
-* kali Linux
-
-### TESTED ON :
-
-* Termux
-* Kali Linux
-
-### REQUIREMENTS :
-* internet
-* storage 200 MB
-
-## FEATURES :
-* [+] Stable tool !
-* [+] Updated maintainence !
-* [+] Best in termux and Kali Linux!
-* [+] Easy for Beginners !
-
-## INSTALLATION 
-
-## [Kali-Linux]:
+## [Kali-Linux] :
 
 * `sudo apt-get update -y && sudo apt-get upgrade -y`
 * `sudo apt install python3 -y`
 * `sudo apt install git -y`
 * `git clone https://github.com/turbo-hackers/pass-gen.git`
-* `ls`
 * `cd pass-gen`
-* `ls`
 * `python3 setup-linux.py`
-* `ls`
 * `python3 pass-gen.py`
 
-## [Termux]:
+## [Termux] :
 
 * `apt-get update -y && apt-get upgrade -y`
 * `apt install python3 -y`
 * `apt install git -y`
-* `git clone https://github.com/turbo-hackers/pass-gen.git`
-* `ls`
+* `git clone https://github.com/turbo-hackers/pass-gen.git`a
 * `cd pass-gen`
-* `ls`
 * `python3 setup-termux.py`
-* `ls`
 * `python3 pass-gen.py`
 
-```
-[+]--Enter the lenghth of password you want
+## USEAGE :
+* `python3 pass-gen.py`
+* `[+] -- Enter the length of password you want`
 
-[+]--You can select any option by clicking on your keyboard
-
-[+]--Note:- Don't delete any of the scripts included in core files
-```
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
