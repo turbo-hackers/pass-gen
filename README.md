@@ -24,13 +24,17 @@ python3 pass-gen.py
 
 ## [Termux] :
 
-* `apt-get update -y && apt-get upgrade -y`
-* `apt install python3 -y`
-* `apt install git -y`
-* `git clone https://github.com/turbo-hackers/pass-gen.git`a
-* `cd pass-gen`
-* `python3 setup-termux.py`
-* `python3 pass-gen.py`
+```
+apt-get update -y && apt-get upgrade -y
+apt install python3 -y
+apt install git -y
+git clone https://github.com/turbo-hackers/pass-gen.git
+```
+```
+cd pass-gen
+python3 setup-termux.py
+python3 pass-gen.py
+```
 
 ## USEAGE :
 * `python3 pass-gen.py`
