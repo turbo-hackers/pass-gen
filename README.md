@@ -10,13 +10,17 @@ This tool works on any devices with python installed.
 
 ## [Kali-Linux] :
 
-* `sudo apt-get update -y && sudo apt-get upgrade -y`
-* `sudo apt install python3 -y`
-* `sudo apt install git -y`
-* `git clone https://github.com/turbo-hackers/pass-gen.git`
-* `cd pass-gen`
-* `python3 setup-linux.py`
-* `python3 pass-gen.py`
+```
+sudo apt-get update -y && sudo apt-get upgrade -y
+sudo apt install python3 -y
+sudo apt install git -y
+git clone https://github.com/turbo-hackers/pass-gen.git
+```
+```
+cd pass-gen
+python3 setup-linux.py
+python3 pass-gen.py
+```
 
 ## [Termux] :
 
