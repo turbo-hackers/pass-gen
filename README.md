@@ -12,8 +12,7 @@ This tool works on any devices with python installed.
 
 ```
 sudo apt-get update -y && sudo apt-get upgrade -y
-sudo apt install python3 -y
-sudo apt install git -y
+sudo apt install git python3 -y
 git clone https://github.com/turbo-hackers/pass-gen.git
 ```
 ```
@@ -26,8 +25,7 @@ python3 pass-gen.py
 
 ```
 apt-get update -y && apt-get upgrade -y
-apt install python3 -y
-apt install git -y
+apt install git python3 -y
 git clone https://github.com/turbo-hackers/pass-gen.git
 ```
 ```
