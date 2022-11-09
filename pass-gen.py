@@ -32,7 +32,7 @@ def main():
     ║ /|\ /|\ /|\ |___| ║
     ╚═══════════════════╝ v1.0 
 		"""+reset)
-		print ("                  "+y+"<===[["+s_b+" coded by"+blink+" TURB0 "+reset+y+"]]===>"+reset)
+		print ("                  "+y+"<===[["+s_b+" coded by"+blink+" TURB0 "+reset+y+"]]===>\n"+reset)
 		print ("               "+y+"<---("+r+" GitHub- Turbo Hackers "+y+")--->"+y+"\n"+reset)
 
 	#gen code
